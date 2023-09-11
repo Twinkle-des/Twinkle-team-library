@@ -27,4 +27,6 @@ Documentation and Templates: Access project documentation templates, such as des
 
 Training and Development: Explore opportunities for skill development, including workshops, webinars, and recommended courses, to continually enhance your UI/UX expertise.
 
+
+
 Our UI/UX Designer Team Library is designed to empower you to create designs that not only meet but exceed user expectations. By leveraging these resources, you contribute to our mission of delivering outstanding digital experiences that make a positive impact on our users and our business.
