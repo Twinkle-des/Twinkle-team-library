@@ -3,7 +3,7 @@
 Welcome to the UI/UX Designer Team Library, your go-to resource hub for all things related to user interface (UI) and user experience (UX) design. Our library is meticulously curated to support our team of talented designers in creating exceptional digital experiences that delight users and drive business success.
 
 ### Viewable link to Team Library
-[Link] (https://www.figma.com/file/zdBJh7pXRNHj4ldiMRwfgx/twinkle-parmar's-team-library?type=design&node-id=0%3A1&mode=design&t=p2xo3N0EjgLjEK4P-1)
+[Link](https://www.figma.com/file/zdBJh7pXRNHj4ldiMRwfgx/twinkle-parmar's-team-library?type=design&node-id=0%3A1&mode=design&t=p2xo3N0EjgLjEK4P-1)
 
 ### Key Features:
 
